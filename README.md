@@ -6,9 +6,9 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 
 ## 🎓 Education
 
-- **Masters in Business Analytics and Big Data** IE SCHOOL OF HUMAN SCIENCES AND TECHNOLOGY, Madrid, Spain (Present)
+-  🏫 **Masters in Business Analytics and Big Data** IE School of Human Sciences and Technology, Madrid, Spain (Present)
 
-- **Bachelor of Science, Double Major: Finance and Marketing** LEHIGH UNIVERSITY, Pennsylvania, USA (2016 - 2020)
+-  🏫 **Bachelor of Science, Finance and Marketing** Lehigh University, Pennsylvania, USA (2016 - 2020)
  
 ## 🚀 Skills
 
