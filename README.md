@@ -24,6 +24,12 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 🔴 <span style="color: #FF0000;">Big Data (Hadoop, Spark)</span> |
 ⚫ <span style="color: #000000;">Equity Sales Trading</span>
 
+## 🌐 Languages
+
+- English (Native)
+- Arabic (Proficient)
+- Spanish (Beginner)
+
 
 ## 🌐 Connect with Me
 
