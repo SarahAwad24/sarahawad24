@@ -33,6 +33,7 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 Data Analysis | Machine Learning | Data Visualization | Big Data Technologies (Hadoop, Spark) | Equity Sales Trading
 
 
+
 ## 📍 Languages
 
 - English (Native)
