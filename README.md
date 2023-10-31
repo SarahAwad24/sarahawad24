@@ -14,23 +14,9 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
  
 ## 🚀 Skills
 
-🟡 <span style="color: #FFD700;">Data Analysis</span> |
-🟢 <span style="color: #008000;">Machine Learning</span> |
-🔵 <span style="color: #0000FF;">Python</span> |
-🟣 <span style="color: #800080;">Data Visualization</span> |
-🟠 <span style="color: #FFA500;">SQL</span> |
-🟤 <span style="color: #8B0000;">MongoDB</span> |
-🟡 <span style="color: #FFD700;">Dataiku</span> |
-🔴 <span style="color: #FF0000;">Big Data (Hadoop, Spark)</span> |
-⚫ <span style="color: #000000;">Equity Sales Trading</span>
+![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) ![Lookerstudio Logo](https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white) ![Tableau Logo](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Google Analytics Logo](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white) ![WordPress Logo](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
-## 🚀 Skills
-
-<img src="python_logo.png" alt="Python Logo" width="20" height="20"> Python |
-<img src="sql_logo.png" alt="SQL Logo" width="20" height="20"> SQL |
-<img src="mongodb_logo.png" alt="MongoDB Logo" width="20" height="20"> MongoDB |
-<img src="dataiku_logo.png" alt="Dataiku Logo" width="20" height="20"> Dataiku |
-Data Analysis | Machine Learning | Data Visualization | Big Data Technologies (Hadoop, Spark) | Equity Sales Trading
+Data Analysis | Machine Learning | Data Visualization | Equity Sales Trading
 
 
 
