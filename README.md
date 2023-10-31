@@ -16,15 +16,6 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 
 Data Analysis | Machine Learning | Data Visualization | Equity Sales Trading
 
-
-
-## 📍 Languages
-
-- English (Native)
-- Arabic (Proficient)
-- Spanish (Beginner)
-
-
 ## 🌐 Connect with Me
 
 - LinkedIn: [Sarah Awad](https://www.linkedin.com/in/SarahAwad24/)
