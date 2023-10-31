@@ -24,11 +24,10 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 - Big Data Technologies (Hadoop, Spark)
 - Equity Sales Trading
 
-## 🌐 Languages
+## 🌐 Connect with Me
 
-- English (Native)
-- Arabic (Proficient)
-- Spanish (Beginner)
+- LinkedIn: [Sarah Awad](https://www.linkedin.com/in/SarahAwad24/)
+- Twitter: [@SarahAwad24](https://twitter.com/SarahAwad24)
 
 ## 📬 Contact
 
