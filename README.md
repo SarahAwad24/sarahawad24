@@ -16,7 +16,7 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 
 🟡 <span style="color: #FFD700;">Data Analysis</span> |
 🟢 <span style="color: #008000;">Machine Learning</span> |
-🔵 <span style="color: #0000FF;">Python</span> |
+- <img src="python_logo.png" alt="Python Logo" width="20" height="20"> Python
 🟣 <span style="color: #800080;">Data Visualization</span> |
 🟠 <span style="color: #FFA500;">SQL</span> |
 🟤 <span style="color: #8B0000;">MongoDB</span> |
