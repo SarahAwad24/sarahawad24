@@ -24,6 +24,15 @@ I am a passionate Masters student studying Big Data and Analytics with a strong 
 🔴 <span style="color: #FF0000;">Big Data (Hadoop, Spark)</span> |
 ⚫ <span style="color: #000000;">Equity Sales Trading</span>
 
+## 🚀 Skills
+
+<img src="python_logo.png" alt="Python Logo" width="20" height="20"> Python |
+<img src="sql_logo.png" alt="SQL Logo" width="20" height="20"> SQL |
+<img src="mongodb_logo.png" alt="MongoDB Logo" width="20" height="20"> MongoDB |
+<img src="dataiku_logo.png" alt="Dataiku Logo" width="20" height="20"> Dataiku |
+Data Analysis | Machine Learning | Data Visualization | Big Data Technologies (Hadoop, Spark) | Equity Sales Trading
+
+
 
 ## 📍 Languages
 
