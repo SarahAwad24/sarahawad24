@@ -1,4 +1,4 @@
-# Hello, I'm [Sarah] 👋
+# Hello, I'm Sarah 👋
 
 ## About Me
 
