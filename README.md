@@ -27,6 +27,7 @@ Feel free to reach out to me at [sarah.awad@student.ie.edu](mailto:sarah.awad@st
 
 ## 📊 GitHub Stats
 
-![Sarah Awad](https://github-readme-stats.vercel.app/api?username=Sarahawad24&show_icons=true&theme=dark)
+![Sarah Awad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarahawad24&show_icons=true&theme=dark)
+
 
 Let's connect and explore the world of data together! 🌍
